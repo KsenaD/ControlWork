@@ -1,4 +1,4 @@
-﻿string [] Array = new string [3]{"один", "два", "202"};
+﻿string [] Array = new string [3]{"один", "два", "2022"};
 List<string> Result = new List<string>();
 for (int i = 0; i < Array.Length; i++)
 {
